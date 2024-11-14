@@ -1,0 +1,31 @@
+flowchart TD
+    A[Patient in London] --> B{Emergency?}
+    B -->|Yes| C[Contact Emergency Services]
+    B -->|No| D[Access Telehealth Platform]
+    
+    D --> E[Virtual Waiting Room]
+    E --> F[Video Consultation with Doctor]
+    
+    F --> G{Prescription Required?}
+    G -->|No| H[End Consultation]
+    G -->|Yes| I[Digital Prescription Generated]
+    
+    I --> J[Secure Payment System]
+    J -->|Blockchain Payment| K[Payment Verification]
+    
+    K --> L{Delivery Method Selection}
+    L -->|Option 1| M[Autonomous Drone Delivery]
+    L -->|Option 2| N[Autonomous Ground Robot]
+    L -->|Option 3| O[Smart Locker Network]
+    
+    M --> P[Medicine Delivered]
+    N --> P
+    O --> P
+    
+    P --> Q[Digital Confirmation]
+    Q --> R[Follow-up Appointment if Needed]
+
+    style A fill:#f9f,stroke:#333
+    style P fill:#9ff,stroke:#333
+    style F fill:#ff9,stroke:#333
+    style J fill:#f99,stroke:#333
