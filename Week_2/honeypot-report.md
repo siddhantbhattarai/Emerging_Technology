@@ -2,7 +2,6 @@
 
 Author: [Your Name]  
 Student ID: [Your ID]  
-University of Sunderland
 
 SSH (Secure Shell) honeypots have emerged as crucial tools in understanding and defending against cyber attacks targeting remote access services. These specialized security systems simulate vulnerable SSH servers to attract, monitor, and analyze potential threats, providing valuable insights into attacker behavior and emerging attack patterns.
 
