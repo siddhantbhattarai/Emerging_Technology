@@ -1,4 +1,4 @@
-Exercise 1: Let's focus on Boston Dynamics' Spot robot as our application area.
+## Exercise 1: Let's focus on Boston Dynamics' Spot robot as our application area.
 
 Computer vision in Spot enables it to:
 - Navigate environments autonomously using depth perception
@@ -13,7 +13,7 @@ Key sources and examples:
 3. Spot can detect anomalies in equipment, read gauges, and identify safety hazards using computer vision
 4. The robot uses deep learning models to improve its navigation over time
 
-Exercise 2: Analysis of Notable Deep Fakes
+## Exercise 2: Analysis of Notable Deep Fakes
 
 Let's analyze the famous Tom Cruise deep fake videos by Chris Ume:
 1. Best/Most Convincing: The "Magic Trick" TikTok video where Tom Cruise appears to perform a coin trick
@@ -39,7 +39,7 @@ Let's analyze the famous Tom Cruise deep fake videos by Chris Ume:
 - Minor inconsistencies in lighting reflection off skin
 - Subtle artifacts around the hairline
 
-Exercise 3: Unusual Object Category Search
+## Exercise 3: Unusual Object Category Search
 
 Selected category: "potted plant" from COCO dataset
 
@@ -50,7 +50,7 @@ Interesting variations found:
 4. LED-illuminated transparent pots showing root systems
 5. Plants in zero-gravity environments (space station examples)
 
-Exercise 4: Rise of Deep Learning
+## Exercise 4: Rise of Deep Learning
 
 Key points from the articles:
 
@@ -66,7 +66,7 @@ Key points from the articles:
 - Investment in specialized tensor cores
 - Creation of dedicated AI frameworks and libraries
 
-Exercise 5: Object Detection Testing
+## Exercise 5: Object Detection Testing
 
 Using isitai.com with our unusual plant images:
 1. Traditional potted plant: High confidence detection (>90%)
@@ -75,7 +75,7 @@ Using isitai.com with our unusual plant images:
 4. Unusual containers: Detection accuracy varies (50-80%)
 5. Zero-gravity plants: Lowest accuracy (<50%)
 
-Exercise 6: Image Classification Analysis
+## Exercise 6: Image Classification Analysis
 
 # Single Subject vs Complex Scene Classification Results
 
@@ -100,7 +100,7 @@ Key Observations:
 4. Background elements heavily influence classification results
 
 
-Exercise 7: Two-Stage vs One-Stage Detector Comparison
+## Exercise 7: Two-Stage vs One-Stage Detector Comparison
 
 # Object Detection Models Performance Comparison
 
@@ -142,7 +142,7 @@ Sources:
 3. Independent benchmarks from MLPerf
 
 
-Exercise 8: Google Colab Implementation
+## Exercise 8: Google Colab Implementation
 
 Steps to use the Faster R-CNN notebook:
 1. Open the provided Colab link
