@@ -34,7 +34,11 @@ A lower learning rate (e.g., 0.001) slows down the rate at which the model updat
 **Observation:**
 Executing the program with the adjusted learning rate will show gradual reward improvements, indicating slower learning.
 
-![image](https://github.com/user-attachments/assets/814fac35-4cf6-4575-8d2c-bbf36faaa726)
+#### Question C: Discuss the Idea of Discounted Reward
+![Screenshot from 2024-12-12 14-35-19](https://github.com/user-attachments/assets/74e06c07-b5a5-47d3-ab12-d291ee0fba76)
+
+**Harvard Reference:**
+Sutton, R. and Barto, A. (2018). Reinforcement Learning: An Introduction. 2nd ed. Cambridge, MA: The MIT Press.
 
 ---
 
