@@ -109,7 +109,7 @@
 1. A concise summary document (around 500-700 words) with:
    - Introduction to motion analysis tools.
    - Key findings from literature.
-   - Citations in APA format.
+   - Citations in Havard format.
    - A reference list (use references provided and additional ones).
 
 ---
