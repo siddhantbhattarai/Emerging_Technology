@@ -34,17 +34,7 @@ A lower learning rate (e.g., 0.001) slows down the rate at which the model updat
 **Observation:**
 Executing the program with the adjusted learning rate will show gradual reward improvements, indicating slower learning.
 
-#### Question C: Discuss the Idea of Discounted Reward
-In reinforcement learning, the discounted reward incorporates a discount factor (\(\gamma\)) that values immediate rewards more than future rewards. The formula for discounted reward \(R_t\) at time \(t\) is:
-
-\[ R_t = \sum_{k=0}^{\infty} \gamma^k r_{t+k} \]
-
-Here:
-- \( \gamma \) (0 ≤ γ ≤ 1) determines the importance of future rewards.
-- A higher \(\gamma\) values long-term rewards, while a lower \(\gamma\) prioritizes immediate rewards.
-
-**Harvard Reference:**
-Sutton, R. and Barto, A. (2018). Reinforcement Learning: An Introduction. 2nd ed. Cambridge, MA: The MIT Press.
+![image](https://github.com/user-attachments/assets/814fac35-4cf6-4575-8d2c-bbf36faaa726)
 
 ---
 
